@@ -3,3 +3,7 @@ git add <path>
 git commit -m ""
 git rm --cached <filename>
 git restore <filename>
+git remote set-url origin <new-url>
+gh auth status
+gh auth login
+git push <alias> <branch>
