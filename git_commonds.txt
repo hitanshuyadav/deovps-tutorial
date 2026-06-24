@@ -1,0 +1,5 @@
+git status
+git add <path>
+git commit -m ""
+git rm --cached <filename>
+git restore <filename>
